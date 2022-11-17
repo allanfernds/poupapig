@@ -1,4 +1,4 @@
-# Bino Móveis
+# PoupaPig
 
 Esse projeto foi desenvolvido como forma de por em prática meus conhecimentos sobre TailwindCss aprendidos na Trybe. 
 
